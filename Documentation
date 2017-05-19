@@ -1,5 +1,20 @@
 5/18/2017
 Initial Commit
 
-Not pushing to server
-Still not pushing
+Starting on:
+    Google Developers: Hello World - Machine Learning Recipes #1
+    https://www.youtube.com/watch?v=cKxRvEZd3Mw
+
+Notes:
+    Scikit learn
+    TensorFlow
+Classifier: Data as input, label as output
+Collect Training Data -> Train Classifier -> Make Predictions
+
+Detect Apple vs Orange
+Training Data: Features: weight texture
+                        Label: apple, orange
+Training the Classifier: Decision Tree
+    Training algorithm: more heavy the fruit is, more likely to be an orange
+
+COMPLETED
